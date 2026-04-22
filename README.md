@@ -104,7 +104,7 @@ GitHub Action that runs every Sunday.
 | Role | Access |
 |------|--------|
 | PI / core maintainers | Write access (direct push to `main`) |
-| Lab members | Fork → PR workflow |
+| Lab members | Clone → PR workflow |
 | External contributors | Fork → PR workflow |
 
 To request write access, contact the PI or open an issue.
