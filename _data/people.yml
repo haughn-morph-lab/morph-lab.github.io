@@ -53,9 +53,10 @@ undergrads:
     role: "Undergraduate Researcher"
     institution: "Rose-Hulman Institute of Technology"
     bio: >-
-      I'm going to florida this summer, yay.
-    photo: /assets/images/people/placeholder.jpg
-    email: ""
+      I'm a freshman mechanical engineering student. I'm researching the use of kinematic sensors to mimic the function of a fish's 
+      biological lateral line to measure fluid flow rate, which will eventually be implemented on an autonomous fish-inspired robot!  
+    photo: /assets/images/people/Slusser_Claire.jpg
+    email: "slussecb@rose-hulman.edu"
     joined: 2025
 
   - name: "Mia Strelec"
