@@ -4,7 +4,7 @@ lateral line for undulatory robotics"
 author: "Claire Slusser"
 event: "Rose Research Fellows 2026"
 year: 2026
-pdf: /assets/showcase/RRF Poster Slusser.pdf
+pdf: /assets/showcase/Claire-Slusser-2026-RRF-Final-Project.pdf
 image: ""
 ---
 
