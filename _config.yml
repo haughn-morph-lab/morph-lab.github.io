@@ -11,6 +11,7 @@ repository: "haughn-morph-lab/morph-lab.github.io"
 # theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast"
+logo: "/assets/images/Red%20Logo.png"
 
 
 # Site Author (PI)
