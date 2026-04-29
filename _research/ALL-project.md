@@ -1,5 +1,5 @@
 ---
-title: "The use of flow sensing flexible kinematic sensors to improve controllability of fish-inspired autonomous underwater vehicles"
+title: "Flexible kinematic sensors for improved controllability of fish-inspired autonomous underwater vehicles"
 excerpt: "Replicating the biological lateral line system using commercial flex sensors and differential pressure sensors."
 order: 1
 tags:
