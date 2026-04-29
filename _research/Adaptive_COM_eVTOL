@@ -1,0 +1,50 @@
+---
+title: "Adaptive COM for stable eVTOL transitions"
+excerpt: "Tail-sitter eVTOL aircraft offer mechanical simplicity over other eVTOL designs but present a difficult transition control problem,
+and this project investigates center-of-mass shifting as a strategy to improve stability and controllability between vertical and horizontal
+flight configurations using SolidWorks, CFD, and LPV modeling."
+order: 1
+tags:
+  - some
+  - key
+  - words or phrases
+header:
+  teaser: /assets/images/research-placeholder.jpg
+---
+## Lead Author
+
+Irene Lema Madueno
+
+## Collaborators
+
+Dr. Kevin PT Haughn
+
+## Overview
+
+Tail-sitter eVTOL aircraft offer an appealing combination of mechanical simplicity and aerodynamic efficiency —
+by pitching the entire airframe between orientations rather than tilting rotors or carrying dedicated lift hardware,
+they avoid much of the complexity common to other eVTOL designs. The tradeoff is a difficult control problem: 
+the stability requirements for vertical and horizontal flight conflict, making the transition between them a persistent challenge.
+This project investigates whether shifting the center of mass during transition can improve static stability and controllability,
+using SolidWorks modeling, CFD analysis, and a linear parameter-varying (LPV) flight model to evaluate the concept across a range of center-of-mass positions.
+
+## Methods
+
+- SolidWorks modeling characterizes the inertial properties of a tail-sitter eVTOL across a range of aft-to-forward center-of-mass positions.
+- Computational fluid dynamics (CFD) determines the aerodynamic forces and moments acting on the airframe across those same configurations.
+- Linear flight models developed at discrete center-of-mass positions are combined into a linear parameter-varying (LPV) framework to simulate 
+and evaluate controllability through a full vertical-to-horizontal flight transition.
+
+
+## Key Findings
+
+- In
+- Progress
+
+## Funding
+
+*RHIT Susstainability Scholars Program*
+
+## Publications
+
+See the [Publications page](/publications/) for papers related to this project.
