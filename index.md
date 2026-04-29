@@ -11,8 +11,7 @@ header:
     - label: "Meet the Team"
       url: /people/
 excerpt: >-
-  We are a group of researchers interested in how biology can inform the design of intelligent engineered platforms
-  through exploring the interconnectivity of sensing, control, and morphology in natural systems.
+  We investigates why certain morphological designs produce superior resilience, maneuverability, and adaptability — objectives that traditional optimization frameworks struggle to quantify. We turn that reasoning into design principles, validated through experimental prototypes.
 
 feature_row:
   - alt: "Research"
