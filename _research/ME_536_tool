@@ -1,0 +1,52 @@
+---
+title: "NVIDIA Isaac Sim student interface"
+excerpt: "ME 536 revamps computational intelligence in control engineering around reinforcement learning and neural networks,
+culminating in an open-ended Isaac Sim robotics project that replaces the traditional exam with a stakeholder-driven design challenge
+requiring students to confront real-world ambiguity."
+order: 1
+tags:
+  - Course Development
+  - Intelligent Systems
+  - Learning
+header:
+  teaser: /assets/images/research-placeholder.jpg
+---
+## Lead Author
+
+Kolton Nanko
+
+## Collaborators
+
+Dr. Kevin PT Haughn
+
+## Overview
+
+ME 536 (Computational Intelligence in Control Engineering) is a revamped technical elective covering reinforcement learning,
+deep RL, neural networks, and state inference, culminating in an open-ended robotics project in NVIDIA Isaac Sim rather than a traditional exam.
+The course is designed to connect theory to application while building entrepreneurial mindset habits — particularly creating value through stakeholder-driven,
+open-ended design. The primary obstacle to the final project is Isaac Sim's steep learning curve and GPU demands, which this effort addresses by adapting an
+existing research-grade codesign interface into a streamlined course tool accessible to undergraduates.
+
+## Methods
+
+- Course content is developed across reinforcement learning (tabular, function approximation, deep RL), neural network architectures,
+and model-based state inference, with labs emphasizing real-world control problems over clean theoretical benchmarks.
+- An existing research-grade Isaac Sim codesign interface is adapted into a course-accessible tool, 
+lowering the barrier to entry for students working with GPU-accelerated simulation and external algorithm integration.
+- Students complete an open-ended final project in Isaac Sim, selecting robot and sensor designs, engineering reward structures, 
+and developing intelligent controllers toward a self-defined, stakeholder-grounded objective.
+
+
+
+## Key Findings
+
+- In
+- Progress
+
+## Funding
+
+*Kern Family Foundation*
+
+## Publications
+
+- Future KEEN Card
