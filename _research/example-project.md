@@ -1,7 +1,7 @@
 ---
 title: "Put your project title here"
 excerpt: "quick summary of the project research question"
-order: 1
+order: -1
 tags:
   - some
   - key
