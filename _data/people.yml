@@ -63,7 +63,8 @@ undergrads:
     role: "Undergraduate Researcher"
     institution: "Rose-Hulman Institute of Technology"
     bio: >
-      Hi, I'm Mia Strelec. I'm a 2nd year undergrate student at Rose-Hulman Institute of Technology studying Mechanical Engineering with a concentration in Aerospace Engineering. My current research project focuses on the use of an oragami style wing in UAVs and its benefits in morphing-wings.  
+      Hi, I'm Mia Strelec. I'm a 2nd year undergrate student at Rose-Hulman Institute of Technology studying Mechanical Engineering with a concentration in Aerospace Engineering.
+      My current research project focuses on the use of an oragami style wing in UAVs and its benefits in deployable uncrewed aerial systems.  
 
     photo: /assets/images/people/placeholder.jpg
     email: "streleml@rose-hulman.edu"
